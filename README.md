@@ -17,7 +17,7 @@ After training the model, we can finally test it out on an image or a video. For
 
 https://user-images.githubusercontent.com/76450681/211209661-be069c27-5e96-4651-a448-fdc2bcbb9d3d.mp4
 
-We can see that it recognize the drones quite accuratly.
+We can see that it recognizes the drones quite accuratly with a little bit of mistakes. This is due to the low database that we have used to train our model.
 
 # Requirements
 
