@@ -15,9 +15,9 @@ To execute the code faster, Google Colab has been used, you can find the model i
 
 After training the model, we can finally test it out on an image or a video. For this project I have tried to gather some video clips and test it out. Here are the result:
 
-We can see that it recognize the drones quite accuratly.
-
 https://user-images.githubusercontent.com/76450681/211209661-be069c27-5e96-4651-a448-fdc2bcbb9d3d.mp4
+
+We can see that it recognize the drones quite accuratly.
 
 # Requirements
 
